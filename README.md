@@ -5,7 +5,7 @@ Pengembangan Robot Pengumpan Sampah KRTMI menjadi berbasis WiFi. Project ini men
 
 ## Cara Menggunakan
 1. Upload program ke mikrokontroler ESP32 menggunakan Arduino IDE
-2. Download Aplikasi Remote Control melalui Aplikasi Remote Control.txt
+2. Download Aplikasi Remote Control pada file Remot_Robot_KRTMI.apk
 3. Sesuaikan program dengan keperkuan anda
 4. Hubungkan robot ke jaringan WiFi sesuai setting di program
 
